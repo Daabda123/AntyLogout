@@ -1,0 +1,4 @@
+name: AnyTLogout
+version: 1.0
+main: pl.anytlogout.AnyTLogout
+api-version: '26.2'
