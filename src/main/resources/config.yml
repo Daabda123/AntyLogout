@@ -1,0 +1,5 @@
+combat-time: 30
+
+messages:
+  combat: "&cJesteś w walce! Nie wychodź przez 30 sekund!"
+  logout: "&4Wylogowałeś się podczas walki!"
